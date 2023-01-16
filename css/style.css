@@ -1,13 +1,15 @@
+
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
 
-    /* its will be remove after complete project */
-    height: 4000px; 
+
+body{
+    font-family: 'Noto Sans Bengali', sans-serif;
 }
 
 a{
@@ -226,9 +228,21 @@ ul{
 }
 /* calender end */
 
+.hotline img{
+    width: 100%;
+    height: 420px;
+}
+
+.login img{
+    width: 80%;
+    height: 60px;
+}
+
 /* right side bar end */
 
 
 /* main section start */
+
+/* footer */
 
 
